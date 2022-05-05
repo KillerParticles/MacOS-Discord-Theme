@@ -1,0 +1,9 @@
+{
+    "name": "MacOS",
+    "description": "A fork of FrostedGlass that Makes Discord follow the style of MacOS. Dark theme is required.",
+    "version": "0.0.1",
+    "author": "KillerParticles",
+    "theme": "dist/MacOS.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
